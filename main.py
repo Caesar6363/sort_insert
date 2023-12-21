@@ -1,5 +1,5 @@
 ### Сортировка вставками/Sorting by inserts
-def git init(arr):
+def sort_insert(arr):
     for i in range(1, len(arr)): #создаем_переменную_i_и_входим_в_длинну_arr_со_значением_1
                                  #create_variable_i_and_enter_in_length_arr_with_value_1
         key = arr[i]    #создаем_переменную_key_присваиваем_значение_arr[i]
